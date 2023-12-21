@@ -46,17 +46,7 @@ Clone the repository to your local machine using:
 git clone https://github.com/Ashwin-BN/OOP222-Project.git
 ```
 
-## Contributing
-1. Fork the repository.
-2. Create your feature branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Submit a pull request.
-
 ## Credits
-- **Author**: [Your Name]
-- **Institution**: [Your Institution]
-- **Course**: [Course Name]
-
-## License
-This project is licensed under the [License Name] License - see the LICENSE file for details.
+- **Author**: Ashwin B N
+- **Institution**: Seneca College
+- **Course**: OOP244
