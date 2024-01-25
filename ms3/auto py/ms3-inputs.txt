@@ -12,3 +12,35 @@ abc
 abc
 22222222
 22.22
+
+Overview
+
+This assignment is designed to have you practice working with HTML Forms via HTML, CSS, and JavaScript.  We will continue to iterate on your previous Assignment 4 and 5 Music App.
+
+You are asked to update the design of your fictional Music App.  This time, you will add some HTML Forms, including:
+
+1.	A form for users to sign-up for the Music App’s newsletter
+2.	A form for users to request a new Artist be added to the App
+
+You must do all the work for this assignment on your own.  You may consult your notes, use the web for inspiration, but you should not copy code directly from other sites, use AI, or work with other students.  If you need help, ask your professor.
+
+
+Requesting a New Artist
+
+Add a new page, and links from the main page, to allow a user to Request a New Artist.  On this page, create a form that allows the user to specify the artist they would like to see added to the app.  This should include:
+
+-	Artist’s name
+-	Music Genre, which should use a <datalist> for autocomplete with 10 pre-defined musical genres.  Allow the user to specify a different genre if the one they want isn’t available
+-	Multiple URLs (support any number) for their social media. Use a single `input` element for all URLs
+-	Multiple URLs (support any number) for example songs and videos by this artist. Show one `input` element and have an `Add` button that dynamically adds another `input` element below it, so the user can include as many song/video links as they want.
+-	A checkbox to specify if the artist’s music includes explicit lyrics
+-	A description of why the user thinks this artist should be added (arbitrarily long text)
+
+Make sure your form uses proper labels, types, attributes, names, don’t allow the user to input invalid data, etc.
+
+Also make sure your form is styled properly so it is easy to read and use. You will be marked on the design and effectiveness of your form.
+
+To simulate submitting a form, you should POST to https://httpbin.org/post (see https://httpbin.org for info).
+
+
+add the code for making this HTML,js and CSS
