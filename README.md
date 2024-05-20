@@ -43,7 +43,7 @@ This project aims to facilitate the management of aid and essential items during
 ## Installation
 Clone the repository to your local machine using:
 ```bash
-git clone https://github.com/Ashwin-BN/OOP222-Project.git
+git clone https://github.com/Ashwin-BN/Disaster-and-Emergency-Aid-Management.git
 ```
 
 ## Credits
